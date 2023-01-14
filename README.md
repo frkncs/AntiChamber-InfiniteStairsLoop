@@ -14,6 +14,7 @@ I made a infinite stairs loop system in AntiChamber game.
 </ul>
 
 <h2>Gameplay GIF loading... Wait for it if you wanna look</h2>
-<h4>GIF has a problem i don't understand. Sorry for that :(</h4>
+<h3>GIF has a problem i don't understand. Sorry for that :(</h3>
+<h4>By the way, i uploaded gameplay gif via GitLFS. So you don't download gif while download this project. It's uploaded another place :)</h4>
 
 <img src="AntiChamberStairsLoop.gif" style="width=500 height=500"></img>
