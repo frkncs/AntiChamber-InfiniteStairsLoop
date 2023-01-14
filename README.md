@@ -12,3 +12,5 @@ I made a infinite stairs loop system in AntiChamber game.
 <li><p>If player enters a trigger, you teleport player to start point.</p></li>
 <li><p>If you do this with perfectly matched models, it will be perfect. If you not, it will be like that...</p></li>
 </ul>
+
+<img src="AntiChamberStairsLoop.gif" style="width=500 height=500"></img>
