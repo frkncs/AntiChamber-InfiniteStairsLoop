@@ -13,4 +13,7 @@ I made a infinite stairs loop system in AntiChamber game.
 <li><p>If you do this with perfectly matched models, it will be perfect. If you not, it will be like that...</p></li>
 </ul>
 
+<h2>Gameplay GIF loading... Wait for it if you wanna look</h2>
+<h4>GIF has a problem i don't understand. Sorry for that :(</h4>
+
 <img src="AntiChamberStairsLoop.gif" style="width=500 height=500"></img>
